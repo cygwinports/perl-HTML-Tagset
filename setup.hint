@@ -1,5 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl module containing data tables for parsing HTML"
-ldesc: "This module contains several data tables useful in various 
-kinds of HTML parsing operations."

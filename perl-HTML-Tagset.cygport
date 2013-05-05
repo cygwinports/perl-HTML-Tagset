@@ -1,0 +1,10 @@
+CPAN_AUTHOR="petdance"
+inherit perl
+
+NAME="perl-HTML-Tagset"
+VERSION=3.20
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HTML data tables for Perl"
+DESCRIPTION="This Perl module contains data tables useful in dealing with HTML.
+It provides no functions or methods."
